@@ -1,9 +1,16 @@
 {
-  "name": "Nome do Guia",
+  "name": "Eng. Inteligência Artificial",
   "expertises": [
     {
-      "name": "Nivel 1 - Básico",
+      "name": "Nivel 1 de profundidade",
       "cards": [
+        {"id": "python-for-data-science"},
+        {"id": "python-collections"},
+        {"id": "linear-and-logistic-regression"},
+        {"id": "statistics-and-math-fundamentals"},
+        {"id": "machine-learning-unsupervised-learning"},
+        {"id": "machine-learning-fundamentals"},
+        {"id": "naive-bayes"},
         {
           "name": "Nome do Cartão Customizado",
           "description": "Descrição do Cartão",
@@ -15,19 +22,26 @@
               "link": "https://nodejs.dev/en/learn/"
             }
           ]
-        },
-        {
-          "id": "nodejs-fundamentals"
         }
       ]
     },
     {
-      "name": "Nivel 2 - Intermediário",
+      "name": "Nivel 2 de profundidade",
       "cards": [
+        {"id": "time-series-forecasting"},
+        {"id": "deep-learning"},
+        {"id": "computer-vision"},
+        {"id": "convolutional-neural-networks"},
+        {"id": "chatbots"},
+        {"id": "dimensionality-reduction"},
+        {"id": "machine-learning-transfer-learning"},
+        {"id": "machine-learning-support-vector-machines"},
+        {"id": "semantic-and-instanced-image-segmentation"},
+        {"id": "computer-vision-feature-extraction"},
         {
-          "name": "Nome do Cartão Customizado 2",
-          "description": "Descrição do Cartão 2",
-          "keyObjectives": ["Objetivo 1.2", "Objetivo 2.2", "Objetivo 3.2"],
+          "name": "Nome do Cartão Customizado",
+          "description": "Descrição do Cartão",
+          "keyObjectives": ["Objetivo 1", "Objetivo 2", "Objetivo 3"],
           "contents": [
             {
               "type": "SITE",
@@ -35,15 +49,32 @@
               "link": "https://nodejs.dev/en/learn/"
             }
           ]
-        },
-        {
-          "id": "python-collections"
         }
       ]
     },
     {
-      "name": "Nivel 3 - Avançado",
-      "cards": []
+      "name": "Nivel 3 de profundidade",
+      "cards": [
+        {"id": "natural-language-processing"},
+        {"id": "fuzzy-logic"},
+        {"id": "cognitive-bias-and-responsible-ai"},
+        {"id": "generative-adversarial-networks"},
+        {"id": "xgboost"},
+        {"id": "recurrent-neural-networks"},
+        {"id": "automated-ai"},
+        {
+          "name": "Nome do Cartão Customizado",
+          "description": "Descrição do Cartão",
+          "keyObjectives": ["Objetivo 1", "Objetivo 2", "Objetivo 3"],
+          "contents": [
+            {
+              "type": "SITE",
+              "title": "Node.js - Documentation",
+              "link": "https://nodejs.dev/en/learn/"
+            }
+          ]
+        }
+      ]
     }
   ],
   "collaborations": [
