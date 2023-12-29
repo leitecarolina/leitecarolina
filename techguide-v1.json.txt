@@ -37,7 +37,7 @@
           ]
         },
         {
-          "id": "apollo-client"
+          "id": "python-collections"
         }
       ]
     },
@@ -63,7 +63,7 @@
           ]
         },
         {
-          "id": "apollo-client"
+          "id": "python-collections"
         }
       ]
     },
